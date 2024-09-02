@@ -67,10 +67,10 @@ const Hero = () => {
       <p>
         I'm a Senior Software Engineer specializing in building scalable and performant web
         applications, with a focus on implementing best practices and optimizing web performance.
-        Currently, I am leading a team of 7 engineers and implementing scalable architecture
+        Currently, I am leading a team of 10+ engineers and implementing scalable architecture
         patterns to deliver business services to valued clients at{' '}
         <a href="https://www.tanla.com" target="_blank" rel="noreferrer">
-          Tanla
+          Gamooga
         </a>
         .
       </p>

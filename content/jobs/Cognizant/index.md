@@ -10,7 +10,13 @@ url: 'https://www.cognizant.com'
 <!-- - Write modern, performant, maintainable code for a diverse array of client and internal projects
 - Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis -->
 
-- Collaborated on developing monitoring tool that reduced personal data leaks by 18.5%
-- Built Java applications using MVC framework and Shell scripts for data import in agile environment, automating CI/CD pipeline using Jenkins and documenting development/deployment process
-- Designed and developed role-based native web application for risk teams to track users attempting to access PII data across 13 clusters
+<small>_Client - JP Morgan Chase_</small>
+
+- Collaborated on developing monitoring tool that reduced personal data leaks by 18.5%.
+- Built Java applications using MVC framework and Shell scripts for data import in agile environment, automating CI/CD pipeline using Jenkins and documenting development/deployment process.
+- Designed and developed a role-based native web application using a 3-tier architecture for risk teams to track users attempting to access PII data across 13 clusters.
 - Created web page to upload defined set of files to Hadoop, establishing connection to HDFS and Hive, and automating process
+
+<small>
+    <ins><i>Tech Stack</i></ins>: D3.js, jQuery, HTML5, CSS3, Javascript (ES6), JSP, Java, Spring Boot, Hibernate, Bash, Apache, Tomcat, Jenkins, Hadoop, Hive, Control-M, ITSM, Jira, Tortoise SVN, Sonar, Solr, ElasticSearch
+</small>

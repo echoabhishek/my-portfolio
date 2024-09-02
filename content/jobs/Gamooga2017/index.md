@@ -4,7 +4,7 @@ title: 'Full Stack Developer'
 company: 'Gamooga'
 location: 'Hyderabad, India'
 range: 'December 2017 - August 2019'
-url: 'https://gamooga.com'
+url: 'https://gamooga.com/'
 ---
 
 - Engineered RESTful web services to manipulate dynamic datasets, resulting in 30% reduction in API response time.
@@ -12,3 +12,7 @@ url: 'https://gamooga.com'
 - Implemented regular database monitoring reducing network downtime to 1.2%.
 - Created role-based web-application leveraging Echarts to render Funnels, Charts, Cohorts and RFM analysis for business insights.
 - Optimized backend for efficient analytics using LevelDB, implemented real-time updates on queries through WebSockets, and achieved 50% improvement in data processing time.
+
+<small>
+    <ins><i>Tech Stack</i></ins>: React.JS, Redux, Jest, Vue.js, Vuex, Vuelidate, SASS, HTML5 / CSS3 / ES6, Puppeteer, Node.js, Docker, MySQL, NoSQL, Git, Python, Echarts, Quill, Jira, AWS, Linode, Typescript, Github Actions
+</small>

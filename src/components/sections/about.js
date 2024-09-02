@@ -125,7 +125,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Vue',
+    'Node.js',
+    'Java',
+    'Python',
+    'AWS',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,9 +144,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there, I'm Abhishek - a senior software ninja with more than 6 years of experience
+              Hey there, I'm Abhishek - a senior software ninja with more than 8 years of experience
               in web development. I'm a React.js &amp; Vue.js aficionado who's crafted amazing
-              projects for the big guns in India's tech industry.
+              projects for the big guns in Global tech industry.
             </p>
 
             <p>
